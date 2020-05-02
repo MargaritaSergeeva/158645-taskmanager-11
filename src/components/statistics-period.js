@@ -1,4 +1,4 @@
-import moment from 'moment';
+// import moment from 'moment';
 import AbstractComponent from './abstract-component.js';
 
 export default class StatisticsPeriod extends AbstractComponent {
